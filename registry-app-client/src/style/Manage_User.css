@@ -1,0 +1,11 @@
+button{
+    background-color: rgb(75, 143, 246);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.dlt{
+    background-color: red;
+}
+

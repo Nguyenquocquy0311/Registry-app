@@ -1,0 +1,180 @@
+.list_xe {
+  margin-top: 20px;
+  display: none;
+  max-width: 100%;
+  border-top: 1px solid black;
+}
+
+.btn {
+  display: flex;
+}
+
+/* i {
+  padding: 10px;
+} */
+
+.svg-inline--fa.fa-pen {
+  color: #3498db;
+  padding-left: 5px;
+}
+
+.svg-inline--fa.fa-trash {
+  color: red;
+}
+
+.icon {
+  margin: 8px;
+}
+
+.btn-manage,
+.btn-xacnhan,
+.update,
+.cancel,
+.hide {
+  border-radius: 5px;
+  background-color: #1ac01f;
+  margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 150px;
+  height: 40px;
+  border: none;
+  color: white;
+  font-size: 15px;
+}
+
+.btn-manage:hover,
+.btn-xacnhan:hover,
+.update:hover,
+.cancel:hover,
+.hide:hover {
+  background-color: #117c16;
+}
+
+.hide {
+  margin-left: 150px;
+}
+
+.ds-xe {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th,
+td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+th {
+  background-color: #f1f1f1;
+  font-weight: bold;
+}
+
+tbody tr:hover {
+  background-color: #f9f9f9;
+  cursor: pointer;
+}
+
+.details {
+  padding: 10px;
+  border: none;
+  box-shadow: 1px 1px 1px 1px rgb(153, 144, 144);
+  border-radius: 10px;
+  margin-top: 20px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.details h2{
+  text-align: center;
+  font-weight: bold;
+}
+
+
+#chart{
+  display: none;
+}
+
+
+#selected_tt_month {
+  display: none;
+}
+
+#selected_tt_year {
+  display: none;
+}
+
+
+#selected_tt_quarter {
+  display: none;
+}
+
+
+
+#selected {
+  display: none;
+}
+
+
+#selected_month {
+  display: none;
+}
+
+#selected_year {
+  display: none;
+}
+
+
+#selected_quarter {
+  display: none;
+}
+
+#filterCenter {
+  padding: 7px 40px 7px 12px;
+  margin: 10px;
+  width: 150px;
+  border: 1px solid #E8EAED;
+  border-radius: 5px;
+  background: white;
+  box-shadow: 0 3px 3px -2px #9098A9;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 16px;
+  transition: all 150ms ease;
+}
+
+#filterDate {
+  width: auto;
+}
+
+#filterCenter:hover {
+  border: 1px solid #80aef4;
+}
+
+.app-content {
+  margin-bottom: 64px;
+}
+
+.edit-form {
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px 1px #9098A9;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.edit-form h2{
+  font-weight: bold;
+  text-align: center;
+}
+
+.edit-form button{
+  margin-left: 60px;
+  background-color: #1ac01f;
+}
+

@@ -1,0 +1,45 @@
+.grid-container {
+    display: grid; 
+    grid-template-columns: auto auto auto auto;
+    
+    grid-column-gap: 10px;
+    grid-row-gap: 25px;
+   
+    padding: 30px;
+    border-radius: 10px;
+}
+.item {
+    padding: 20px;
+    text-align: center;
+}
+
+.item > i{
+    font-size: 30px;
+}
+
+.item > p{
+    font-size: 20px;
+}
+
+.item:hover{
+    color: rgb(0, 132, 255);
+}
+
+.bg-img{
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),
+        url('https://choixehop.com/Uploads/News/22092015/News/209220633-BMW-i8.jpg');
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.link i{
+    font-size: 30px;
+}

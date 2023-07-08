@@ -1,0 +1,73 @@
+[
+    {
+      "username": "center1",
+      "tenTrungTam": "Trung tâm A",
+      "diaChi": "273 Thanh Binh, Mo Lao, Ha Dong, Ha Noi",
+      "khuVuc": "Khu vực 1",
+      "soDienThoai": "0123456789"
+    },
+    {
+      "username": "center2",
+      "tenTrungTam": "Trung tâm B",
+      "diaChi": "273 Thanh Binh, Mo Lao, Ha Dong, Ha Noi",
+      "khuVuc": "Khu vực 2",
+      "soDienThoai": "0987654321"
+    },
+    {
+      "username": "center3",
+      "tenTrungTam": "Trung tâm C",
+      "diaChi": "273 Thanh Binh, Mo Lao, Ha Dong, Ha Noi",
+      "khuVuc": "Khu vực 1",
+      "soDienThoai": "0123412345"
+    },
+    {
+        "username": "center4",
+        "tenTrungTam": "Trung tâm D",
+        "diaChi": "273 Thanh Binh, Mo Lao, Ha Dong, Ha Noi",
+        "khuVuc": "Khu vực 1",
+        "soDienThoai": "0123412345"
+    },
+    {
+      "username": "center5",
+      "tenTrungTam": "Trung tâm E",
+      "diaChi": "273 Thanh Binh, Mo Lao, Ha Dong, Ha Noi",
+      "khuVuc": "Khu vực 1",
+      "soDienThoai": "0123412345"
+    },
+    {
+      "username": "center6",
+      "tenTrungTam": "Trung tâm E",
+      "diaChi": "273 Thanh Binh, Mo Lao, Ha Dong, Ha Noi",
+      "khuVuc": "Khu vực 1",
+      "soDienThoai": "0123412345"
+    },
+    {
+      "username": "center7",
+      "tenTrungTam": "Trung tâm E",
+      "diaChi": "273 Thanh Binh, Mo Lao, Ha Dong, Ha Noi",
+      "khuVuc": "Khu vực 1",
+      "soDienThoai": "0123412345"
+    },
+    {
+      "username": "center8",
+      "tenTrungTam": "Trung tâm E",
+      "diaChi": "273 Thanh Binh, Mo Lao, Ha Dong, Ha Noi",
+      "khuVuc": "Khu vực 1",
+      "soDienThoai": "0123412345"
+    },
+    {
+      "username": "center9",
+      "tenTrungTam": "Trung tâm E",
+      "diaChi": "273 Thanh Binh, Mo Lao, Ha Dong, Ha Noi",
+      "khuVuc": "Khu vực 1",
+      "soDienThoai": "0123412345"
+    },
+    {
+      "username": "center10",
+      "tenTrungTam": "Trung tâm E",
+      "diaChi": "273 Thanh Binh, Mo Lao, Ha Dong, Ha Noi",
+      "khuVuc": "Khu vực 1",
+      "soDienThoai": "0123412345"
+    }
+  ]
+  

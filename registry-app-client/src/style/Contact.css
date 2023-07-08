@@ -1,0 +1,36 @@
+.contact-page {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+#btn-submit {
+    padding: 10px 20px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+#btn-submit:hover {
+    background-color: rgba(0, 0, 0, 0.647);
+}
+  

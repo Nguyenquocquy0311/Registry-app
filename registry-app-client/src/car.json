@@ -1,0 +1,149 @@
+{
+    "car": [
+        {
+          "id": 1,
+          "licensePlate": "ABC123",
+          "owner": "John Doe",
+          "registryDate": "2010-04-23",
+          "expiryDate": "2023-05-25",
+          "uses": "personal travel",
+          "manufacturer": "Honda",
+          "email": "nguyenvana@example.com",
+          "phone": "0123456789",
+          "province": "Hà Nội"
+        },
+        {
+          "id": 2,
+          "licensePlate": "XYZ789",
+          "owner": "Jane Smith",
+          "registryDate": "2018-04-23",
+          "expiryDate": "2023-06-15",
+          "uses": "personal travel",
+          "manufacturer": "Honda",
+          "email": "nguyenvana@example.com",
+          "phone": "0123456789",
+          "province": "Hà Nội"
+        },
+        {
+          "id": 3,
+          "licensePlate": "DEF456",
+          "owner": "David Johnson",
+          "registryDate": "2011-04-23",
+          "expiryDate": "2023-07-10",
+          "uses": "personal travel",
+          "manufacturer": "Honda",
+          "email": "nguyenvana@example.com",
+          "phone": "0123456789",
+          "province": "TP. Hồ Chí Minh"
+        },
+        {
+          "id": 4,
+          "licensePlate": "DEF456",
+          "owner": "David Johnson",
+          "registryDate": "2011-04-23",
+          "expiryDate": "2023-07-10",
+          "uses": "passenger",
+          "manufacturer": "Honda",
+          "email": "nguyenvana@example.com",
+          "phone": "0123456789",
+          "province": "Hà Nội"
+        },
+        {
+          "id": 5,
+          "licensePlate": "DEF456",
+          "owner": "David Johnson",
+          "registryDate": "2011-04-23",
+          "expiryDate": "2023-07-10",
+          "uses": "personal travel",
+          "manufacturer": "Toyota",
+          "email": "nguyenvana@example.com",
+          "phone": "0123456789",
+          "province": "Nghệ An"
+        },
+        {
+          "id": 6,
+          "licensePlate": "DEF456",
+          "owner": "David Johnson",
+          "registryDate": "2011-04-23",
+          "expiryDate": "2023-07-10",
+          "uses": "personal travel",
+          "manufacturer": "Toyota",
+          "email": "nguyenvana@example.com",
+          "phone": "0123456789",
+          "province": "Huế"
+        },
+        {
+          "id": 7,
+          "licensePlate": "DEF456",
+          "owner": "David Johnson",
+          "registryDate": "2011-04-23",
+          "expiryDate": "2022-07-10",
+          "uses": "personal travel",
+          "manufacturer": "Toyota",
+          "email": "nguyenvana@example.com",
+          "phone": "0123456789",
+          "province": "Hà Nội"
+        },
+        {
+          "id": 8,
+          "licensePlate": "DEF456",
+          "owner": "David Johnson",
+          "registryDate": "2011-04-23",
+          "expiryDate": "2023-05-20",
+          "uses": "personal travel",
+          "manufacturer": "Toyota",
+          "email": "nguyenvana@example.com",
+          "phone": "0123456789",
+          "province": "TP. Hồ Chí Minh"
+        },
+        {
+          "id": 9,
+          "licensePlate": "DEF456",
+          "owner": "David Johnson",
+          "registryDate": "2011-04-23",
+          "expiryDate": "2023-07-10",
+          "uses": "personal travel",
+          "manufacturer": "Toyota",
+          "email": "nguyenvana@example.com",
+          "phone": "0123456789",
+          "province": "Hà Nội"
+        },
+        {
+          "id": 10,
+          "licensePlate": "DEF456",
+          "owner": "David Johnson",
+          "registryDate": "2011-04-23",
+          "expiryDate": "2023-05-10",
+          "uses": "personal travel",
+          "manufacturer": "Toyota",
+          "email": "nguyenvana@example.com",
+          "phone": "0123456789",
+          "province": "Hà Nội"
+        }
+    ],
+    "owners": [
+        {
+          "id": 1,
+          "name": "Nguyễn Văn A",
+          "email": "nguyenvana@example.com",
+          "phone": "0123456789",
+          "province": "Hà Nội"
+        },
+        {
+          "id": 2,
+          "name": "Trần Thị B",
+          "email": "tranthib@example.com",
+          "phone": "0987654321",
+          "province": "TP. Hồ Chí Minh"
+        },
+        {
+          "id": 3,
+          "name": "Lê Văn C",
+          "email": "levanc@example.com",
+          "phone": "0365478123",
+          "province": "Đà Nẵng"
+        }
+    ]
+}
+
+  

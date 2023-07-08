@@ -1,0 +1,35 @@
+.footer{
+    /*display: block; */
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.863);
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer h3{
+    font-size: 2.1rem;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 3rem;
+}
+
+.footer p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 16px;
+    color: #cacdd2;
+}
+
+.footer .copyright {
+    text-align:center;
+    padding-top:24px;
+    opacity:0.3;
+    font-size:13px;
+    margin-bottom:0;
+  }
+

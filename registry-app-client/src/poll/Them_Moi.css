@@ -1,0 +1,268 @@
+.ghi-nhan{
+  display: none;
+  margin-bottom: 20px;
+  border-top: 1px solid black;
+  margin: 10px;
+  /* text-align: center; */
+}
+
+#nhap{
+  text-align: center;
+  padding-left: 400px;
+  font-weight: bold;
+  font-size: 20px;
+  position: relative;
+}
+
+.hang{
+  /* display: none; */
+}
+
+
+#dongxepick{
+  display: none;
+  /* padding: 8px;
+  border: 1px solid #ccc; */
+  height: 120px;
+}
+
+
+#dongxepick label{
+padding-top: 10px;
+padding-bottom: 3px;
+}
+
+
+#choose-file{
+display: none;
+margin: 10px;
+width: 180px;
+box-shadow: 1px 1px 1px 1px rgb(55, 55, 55);
+}
+
+
+#choose-file:hover{
+border-color: #999;
+}
+
+
+/* form.ghi-nhan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tbl-ghinhan {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+h4 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+thead {
+  background-color: #f0f0f0;
+}
+
+h5 {
+  margin: 10px 0;
+}
+
+tbody td {
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type='text'],
+input[type='date'],
+select {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}*/
+
+.save {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #1ac01f;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.save:hover {
+  background-color: #45a049;
+}
+
+
+form.ghi-nhan {
+  text-align: center;
+  border-top: 1px solid black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+
+thead {
+  text-align: center;
+}
+
+tbody td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type='text'],
+input[type='date'],
+input[type='number'],
+input[type='tel'],
+input[type='password'],
+select{
+  /* width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box; */
+
+
+  padding: 7px 40px 7px 12px;
+  margin: 10px;
+  width: 150px;
+  border: 1px solid #E8EAED;
+  border-radius: 5px;
+  background: white;
+  box-shadow: 0 3px 3px -2px #9098A9;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 16px;
+  transition: all 150ms ease;
+}
+
+.btn-ghinhan{
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #1ac01f;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.btn-ghinhan:hover {
+  background-color: #56be5b;
+}
+
+/* Optional: Add some spacing between elements */
+tr {
+  margin-bottom: 10px;
+}
+
+/* select,
+input[type='date'] {
+  margin-top: 5px;
+} */
+
+/* Optional: Adjust font styles */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #333;
+}
+
+
+#vanbandangkiem{
+  max-width: 1200px;
+  display: none;
+  /* border-top: 1px solid black; */
+}
+
+
+#upload{
+  display: none;
+  margin-left: 10px;
+  background-color: #1ac01f;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+#xuatvanban{
+  display: none;
+}
+
+
+#download{
+  display: none;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: #1ac01f;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+
+
+.menuAdd{
+  margin: 0px;
+  margin-left: 10px;
+  padding: 0px;
+}
+
+.menuAdd li{
+  list-style: none;
+}
+
+.menuAdd button {
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: white;
+  border-radius: 5px;
+  /* color: #1570f8; */
+  border: 1px solid #03060a;
+  color: #333;
+  width: 120px;
+  font-size: 15px;
+  /* border-color: #80aef4; */
+  /* border: none;
+  box-shadow: 1px 1px 1px 1px #80aef4; */
+}
+
+.menuAdd button:hover{
+  /* color: white; */
+  /* border: none; */
+  color: #3498db;
+  border-color: #3498db;
+}
+
+
+
+
+

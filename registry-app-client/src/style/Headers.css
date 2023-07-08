@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.logo{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    padding-left: 30px;
+}
+
+.menu{
+    height: 90px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    background-color: rgba(0, 0, 0, 0.863);
+}
+
+.menu ul{
+    display: flex;
+  }
+  
+.menu ul li{
+    list-style: none;
+    margin-left: 7px;
+  }
+  
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 20px;
+    padding-right: 20px;
+}
+
+.menu ul li i{
+    padding: 10px;
+}
+
+.menu ul li:hover{
+    background-color: rgba(148, 147, 147, 0.838);
+  }

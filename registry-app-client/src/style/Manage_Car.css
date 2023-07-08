@@ -1,0 +1,62 @@
+.container {
+  margin-top: 20px;
+}
+
+.btn{
+  display: flex;
+}
+
+i{
+  padding: 10px;
+}
+
+.fa-solid.fa-pen{
+  color: rgb(5, 5, 243);
+}
+
+.fa-solid.fa-trash{
+  color: red;
+}
+
+.btn-manage{
+  border-radius: 10px;
+  background-color: #3498db;
+  margin: 10px;
+  width: 120px;
+}
+
+.ds-xe {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+th {
+  background-color: #f1f1f1;
+  font-weight: bold;
+}
+
+tbody tr:hover {
+  background-color: #f9f9f9;
+  cursor: pointer;
+}
+
+.notification-icon {
+  color: red;
+  font-size: 16px;
+}
+
+.details{
+  padding: 10px;
+  border: 1px solid;
+}
+
+.details h2, .details p{
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+

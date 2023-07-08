@@ -1,0 +1,86 @@
+.login-background{
+    padding: 80px;
+}
+
+.login-container{
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px rgb(118, 118, 118);
+}
+
+.login-content{
+    padding: 10px;
+}
+
+.text-login{
+    text-align: center;
+    font-weight: 600;
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+.login-input{
+    margin: 7px 0;
+}
+
+.hide{
+    position: relative;
+}
+
+.hide i{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    cursor: pointer;
+}
+
+.btn-login{
+    width: 100%;
+    margin: 10px 0;
+    height: 35px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: none;
+    font-weight: bold;
+}
+
+.forgot-password{
+    font-size: small;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.text-center{
+    margin-top: 50px;
+}
+
+.social-login{
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.social-login i{
+    padding: 15px;
+    margin: 10px;
+    border-radius: 20px;
+    height: 50px;
+    width: 50px;
+    color: white;
+}
+
+.social-login i.fab.fa-facebook-f{
+    background-color: rgb(59, 98, 169);
+}
+
+.social-login i.fa-brands.fa-google{
+    background-color: rgb(247, 32, 32);
+}
+
+
